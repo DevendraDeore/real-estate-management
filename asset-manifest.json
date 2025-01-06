@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/real-estate-management/static/css/main.6457199f.chunk.css",
+    "main.js": "/real-estate-management/static/js/main.905a8764.chunk.js",
+    "main.js.map": "/real-estate-management/static/js/main.905a8764.chunk.js.map",
+    "runtime~main.js": "/real-estate-management/static/js/runtime~main.0f1d050a.js",
+    "runtime~main.js.map": "/real-estate-management/static/js/runtime~main.0f1d050a.js.map",
+    "static/css/2.dd939bbb.chunk.css": "/real-estate-management/static/css/2.dd939bbb.chunk.css",
+    "static/js/2.06380ffe.chunk.js": "/real-estate-management/static/js/2.06380ffe.chunk.js",
+    "static/js/2.06380ffe.chunk.js.map": "/real-estate-management/static/js/2.06380ffe.chunk.js.map",
+    "static/js/3.6fc501d6.chunk.js": "/real-estate-management/static/js/3.6fc501d6.chunk.js",
+    "static/js/3.6fc501d6.chunk.js.map": "/real-estate-management/static/js/3.6fc501d6.chunk.js.map",
+    "index.html": "/real-estate-management/index.html",
+    "precache-manifest.a8bcc7fa2016f258ffa753b029145599.js": "/real-estate-management/precache-manifest.a8bcc7fa2016f258ffa753b029145599.js",
+    "service-worker.js": "/real-estate-management/service-worker.js",
+    "static/css/2.dd939bbb.chunk.css.map": "/real-estate-management/static/css/2.dd939bbb.chunk.css.map",
+    "static/css/main.6457199f.chunk.css.map": "/real-estate-management/static/css/main.6457199f.chunk.css.map",
+    "static/media/about.jpg": "/real-estate-management/static/media/about.6119d1bb.jpg",
+    "static/media/login.css": "/real-estate-management/static/media/bg-image.955db140.jpg",
+    "static/media/carousel3.jpg": "/real-estate-management/static/media/carousel3.0c361df5.jpg",
+    "static/media/e.mp4": "/real-estate-management/static/media/e.d7800041.mp4",
+    "static/media/all.min.css": "/real-estate-management/static/media/fa-v4compatibility.d20cedd7.ttf",
+    "static/media/font-awesome.min.css": "/real-estate-management/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/house1.jpg": "/real-estate-management/static/media/house1.28a3caae.jpg",
+    "static/media/room1.jpg": "/real-estate-management/static/media/room1.f1c4aa82.jpg"
+  }
+}
